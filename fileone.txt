@@ -1,2 +1,4 @@
 File One
 This is an example of a file that can be contained in a repository. The README file is a markdown (.md) file, whereas this one is a basic text file so no formatting using #s.
+
+Adding a conclusion to fileone.txt file to test feature branch making.
